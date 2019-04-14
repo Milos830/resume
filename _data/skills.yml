@@ -1,19 +1,11 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- skill: "Eclipse IDE"
+- skill: "Eclipse IDE, Java MVC architecture, MySql(Workbench), Swing gui, Git"
   detail: ""
 
-- skill: "Java MVC architecture"
-  detail: ""
+#- skill: ""
+ # detail: ""
 
-- skill: "MySql"
-  detail: ""
 
-- skill: "Swing GUI"
-  detail: 
-  
-- skill: "JDBC"
-  detail: ""
-  
-  - skill: "Git"
-  detail: ""
+
+
