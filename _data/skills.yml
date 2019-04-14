@@ -1,11 +1,19 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- skill: "Donut design"
-  detail: "Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research"
+- skill: "Eclipse IDE"
+  detail: ""
 
-- skill: "Craft beer brewing"
-  detail: "Hops inspection, brew testing, distribution management, bottle label design, festival and event management"
+- skill: "Java MVC architecture"
+  detail: ""
 
-- skill: "Craft beer brewing"
-  detail: "Hops inspection, brew testing, distribution management, bottle label design, festival and event management"
+- skill: "MySql"
+  detail: ""
 
+- skill: "Swing GUI"
+  detail: 
+  
+- skill: "JDBC"
+  detail: ""
+  
+  - skill: "Git"
+  detail: ""
