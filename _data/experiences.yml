@@ -1,10 +1,16 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- work: "Springfield Nuclear Power Plant"
-  title: "Safety Inspector"
-  from: "Nov, 1990"
-  untill: "Present"
-  detail: "Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section."
+- work: "National Employment Service, Programming java course Uzice"
+  title: ""
+  from: "Oct, 2018"
+  untill: "Apr, 2019"
+  detail: ""
+
+- work: "Frucom food d.o.o."
+  title: "Daily production controller, transport manipulator"
+  from: "Apr, 2018"
+  untill: "Jun, 2018"
+  detail: "I also spent a certain time working in the food industry „Frucom Food“. I participated in the daily organization of production, processing, packaging and storage of products (raspberries, blackberries), writing daily reports and keeping daily logs. Keeping in mind the needs of consumables, managing warehouse space, organizing warehousing of finished products and raw materials in warehouse space, and their further exploitation in production."
 
 - work: "Winter Doku Power Plant"
   title: "Safety Distracter"
