@@ -1,7 +1,7 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- project : "donutfinder.io"
-  role : "Founder & Primary Developer"
-  from : "2012"
-  untill : "Present"
-  detail : "Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home."
+- project : "Final project Real estate management system https://github.com/Milos830/REMS.git"
+  role : "Creator and developer with supervisor supervision"
+  from : "Januar 2019"
+  untill : "April 2019"
+  detail : "Through this course I got acquainted with OOP, MVC, Swing GUI, JDBC, MySql, Gitlab, which helped me to create my first independent project "
