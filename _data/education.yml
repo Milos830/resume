@@ -1,5 +1,12 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
+- school : "National Employment Service, Programming java course Uzice"
+  degree : ""
+  from : "October 2018"
+  untill : "April 2019"
+  detail : "Final project Real estate management system https://github.com/Milos830/REMS.git"
+
+
 - school : "ECPD International faculty of sport and physical education"
   degree : ""
   from : ""
