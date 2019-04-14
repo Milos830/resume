@@ -1,7 +1,7 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
 name:          "Miloš Milivojević"
-summary:       "I'm a Junior Java Developer with seven months experience in java development. I've one java project Real estate managment system"
+summary:       "I'm a Junior Java Developer with seven months experience. I'd like to improve myself in the field of backend development and would like to learn new technologies that will help me to become a master of backend development."
 image:         "avatar.jpg"
 avatar:        "true"
 title:         "Nimbus Inspector"
