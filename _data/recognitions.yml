@@ -1,6 +1,6 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-#- recognition	:	"Springfield Nuclear Power Plant"
- # event		: 	"Safety Inspector"
- # date		: 	"Nov, 1990"
- # detail	: 	"Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section."
+- recognition	:	"Springfield Nuclear Power Plant"
+  event		: 	"Safety Inspector"
+  date		: 	"Nov, 1990"
+  detail	: 	"Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section."
