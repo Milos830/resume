@@ -39,7 +39,28 @@
       </header>
 
       {% if site.data.sections.resume_section_experience %}
-      <!-- begin Experience -->
+      
+	    <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+
+        {% for item in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{item.skill}}</h4>
+          <p class="resume-item-copy">{{item.detail}}</p>
+        </div>
+	{% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
+      {% if site.data.sections.resume_section_recognition %}
+	    
+	    <!-- begin Experience -->
       <section class="content-section">
 
         <header class="section-header">
@@ -102,25 +123,7 @@
       {% endif %}
 
       {% if site.data.sections.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-
-        {% for item in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{item.skill}}</h4>
-          <p class="resume-item-copy">{{item.detail}}</p>
-        </div>
-	{% endfor %}
-
-      </section>
-      <!-- end Skills -->
-      {% endif %}
-
-      {% if site.data.sections.resume_section_recognition %}
+     
       <!-- begin Recognition -->
       <section class="content-section">
 
