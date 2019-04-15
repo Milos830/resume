@@ -13,7 +13,7 @@ sass:
 
 
 # Design settings
-resume_theme:                   red
+resume_theme:                   default
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
